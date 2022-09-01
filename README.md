@@ -1,4 +1,4 @@
-![UCSD](geisel.svg)
+![UCSD](geisel.jpg)
 # Hello and welcome to my Github!
 
 
